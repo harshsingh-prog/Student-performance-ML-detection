@@ -1,4 +1,4 @@
-# README
+
 
 ## Project Title: Student Performance Analysis
 
@@ -49,7 +49,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/harshsingh-prog/Student-performance-ML-detection.git>
 ```
 
 2. Navigate to the project directory:
@@ -84,18 +84,4 @@ jupyter notebook
 
 The results and performance metrics of each model are documented in the respective Jupyter Notebooks. The project provides insights into which models perform best for predicting student performance based on the given dataset.
 
-### Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-### Contact
-
-If you have any questions or feedback, please feel free to contact me at [your_email@example.com].
-
----
-
-Thank you for checking out this project! Happy coding!
